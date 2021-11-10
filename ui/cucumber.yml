@@ -1,0 +1,7 @@
+default: --no-source --color --format pretty
+#profile_de_navegador
+firefox: firefox=true -p progress 
+chrome: chrome=true -p progress 
+headless: headless -p progress 
+#formato_do_terminal
+progress: --no-source --color --format pretty

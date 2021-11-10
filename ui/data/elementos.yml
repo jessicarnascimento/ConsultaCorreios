@@ -1,0 +1,16 @@
+################ SITE CORREIOS - Inicio ####################
+botao_cookies:              "div[class='cookiesBotaoAceitar']"  #localizar por css
+titulo:                     "label[class='titulo']" #localizar por css
+input_cep:                  "#relaxation" #localizar por id
+input_rastreamento:         "#objetos"    #localizar por id
+pesquisa_cep:               '//*[@id="content"]/div[3]/div/div[2]/form/div[2]/button' #localizar por xpath
+pesquisa_rastreamento:      '//*[@id="content"]/div[3]/div/div[1]/form/div[2]/button' #localizar por xpath
+
+################ SITE CORREIOS - Resultado CEP ####################
+msg_resultado:              "div[id='mensagem-resultado']"
+logradouro:                 '//*[@id="resultado-DNEC"]/tbody/tr/td[1]'
+localidade:                 '//*[@id="resultado-DNEC"]/tbody/tr/td[3]'
+
+################ SITE CORREIOS - Resultado Rastreamento ####################
+btn_pesquisa:               '//*[@id="b-pesquisar"]'
+alerta:                     "div[class='msg']"

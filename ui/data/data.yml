@@ -1,0 +1,6 @@
+dev:
+  site_web: "https://www.correios.com.br/"
+hom:
+  site_web: "https://www.correios.com.br/"
+prod:
+  site_web: "https://www.correios.com.br/"
