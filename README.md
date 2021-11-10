@@ -97,10 +97,10 @@ Utilize o seguinte comando para executar todos os cenários de teste:
   cucumber
   ```
 Visualização no console:
-</br> <img src="https://github.com/jessicarnascimento/ConsultaCorreios/.gif" />
+</br> <img src="https://github.com/jessicarnascimento/ConsultaCorreios/blob/main/ImagensREADME/StatusCenario.png" />
   
 Visualização no browser:
-</br><img src="https://github.com/jessicarnascimento/ConsultaCorreios/.gif" />
+</br><img src="https://github.com/jessicarnascimento/ConsultaCorreios/blob/main/ImagensREADME/correios_01-.gif" />
 
   
 ### 🔩 Cenários de Testes
