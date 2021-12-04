@@ -117,4 +117,4 @@ Busca pelo cep_invalido, cep_valido e código de rastreamento
  <sub><b>Jéssica Ribeiro do Nascimento</b></sub></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica_Ribeiro_do_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicaribeironascimento/)](https://www.linkedin.com/in/jessicaribeironascimento/) 
-[![Gmail Badge](https://img.shields.io/badge/-jessicarn2210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicarn2210@gmail.com)](mailto:jessicaribeiro2210@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jessicaribeiro2210@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicaribeiro2210@gmail.com)](mailto:jessicaribeiro2210@gmail.com)
